@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: Dave Boku
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 6-8 hours spent in total
 
 ## Required Features
 
@@ -17,16 +17,18 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Implemented a search feature that allows users to look up any game. Results would be displayed on a separate search page. 
+* [ ] Overhaul of the design of the website. Implemented lighter colors and established a consistent color layout throughout the website.
+* [ ] Future work would include making the search system more efficient through the use of more efficient data storage and search systems. 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Walkthrough - 720p](https://github.com/dave-sbs/web102_prework/assets/117487090/e623c866-2be3-4b79-a1e6-a412156429af)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap. GIF optimized by XConvert.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,10 +37,13 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+I wanted to implement a search feature that was dynamic and would redirect users to a separate search page. I did not know how to implement it, so I went online to look for similar implementations. However, when adapting the implementations I encountered various issues which I wasn't able to debug. The final search product you see is by no means perfect. However, through iterative changes to the code and logic, I was able to get the final product I wanted. 
+Special thanks to Sonar Systems and their video - Khan Academy Style Dynamic Search Bar Tutorial. 
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Dave Boku]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
